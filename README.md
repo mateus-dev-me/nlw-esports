@@ -9,6 +9,7 @@ partidas juntos.
 - React 
 - TypeScript
 - Vite 
+- Tailwindcss
 #### Backend
 - Node
 - TypeScript
